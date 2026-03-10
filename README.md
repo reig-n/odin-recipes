@@ -1,0 +1,1 @@
+My first Odin Project! It's very simple and took me back to my first HTML. It was done very quick and with the very bare minimum. No CSS no JavaScript no nothing. Just like the instructions said to just make the project usable! Done this with no AI help whatsoever so im kinda proud of myself. Psyched to see where my Odin journey leads to! 
